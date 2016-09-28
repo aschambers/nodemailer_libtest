@@ -1,0 +1,19 @@
+h1 {
+	color: red;
+    margin-left: 10px;
+}
+#to {
+	width:280px;
+	margin-bottom:2px;
+	position:inline-block;
+}
+#subject {
+	width:280px;
+	margin-bottom:2px;
+	position:inline-block;
+}
+#content {
+	width:280px;
+	margin-bottom:2px;
+	position:inline-block;
+}
